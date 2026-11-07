@@ -1,5 +1,12 @@
 # 🎵 SoundPulse (Official App Release)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Release-v1.6.4-FF9E0B?style=for-the-badge" alt="Release Version" />
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform" />
+  <img src="https://img.shields.io/badge/Architecture-Jetpack%20Compose-4285F4?style=for-the-badge" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/Engine-Media3%20ExoPlayer-00E5FF?style=for-the-badge" alt="Media3 ExoPlayer" />
+</p>
+
 **A modern Android audio player with built-in AI integration.**
 
 SoundPulse is an advanced music player that combines multi-format local playback, a graphic equalizer, cloud storage streaming, and worldwide radio integration, plus an AI DJ powered by Google Gemini via Firebase.
